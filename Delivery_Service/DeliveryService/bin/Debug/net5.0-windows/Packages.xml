@@ -1,0 +1,317 @@
+<packages>
+<package>
+      <id>30001</id>
+      <type>가전</type>
+      <fee>5700</fee>
+      <start>서울 성동구</start>
+      <end>경기 시흥</end>
+      <address>경기 시흥</address>
+      <trans>2022-05-12 오전 12:00:00</trans>
+      <receive>2022-06-13 오후 9:17:06</receive>
+      <dday>0</dday>
+      <status>True</status>
+      <tid>10001</tid>
+      <rid>10002</rid>
+      <mod>일반배송</mod>
+</package>
+<package>
+      <id>30002</id>
+      <type>가전제품류</type>
+      <fee>8200</fee>
+      <start>강원 춘천시</start>
+      <end>충남 제천</end>
+      <address>충남 제천</address>
+      <trans>2022-05-23 오전 12:00:00</trans>
+      <receive>2022-06-13 오후 9:17:06</receive>
+      <dday>0</dday>
+      <status>True</status>
+      <tid>10001</tid>
+      <rid>10003</rid>
+      <mod>일반배송</mod>
+</package>
+<package>
+      <id>30003</id>
+      <type>가전제품류</type>
+      <fee>11150</fee>
+      <start>경기 성남</start>
+      <end>광주 남광주</end>
+      <address>광주 남광주</address>
+      <trans>2022-05-30 오전 12:00:00</trans>
+      <receive>2022-06-13 오후 9:17:06</receive>
+      <dday>0</dday>
+      <status>True</status>
+      <tid>10002</tid>
+      <rid>10003</rid>
+      <mod>일반배송</mod>
+</package>
+<package>
+      <id>30004</id>
+      <type>한약류</type>
+      <fee>4000</fee>
+      <start>경기 용인시</start>
+      <end>경북 안동</end>
+      <address>경북 안동</address>
+      <trans>2022-06-05 오전 12:00:00</trans>
+      <receive>2022-06-13 오후 9:17:06</receive>
+      <dday>0</dday>
+      <status>True</status>
+      <tid>10004</tid>
+      <rid>10005</rid>
+      <mod>일반배송</mod>
+</package>
+<package>
+      <id>30005</id>
+      <type>가전제품류</type>
+      <fee>14400</fee>
+      <start>서울 강동구</start>
+      <end>광주</end>
+      <address>광주</address>
+      <trans>2022-06-12 오후 8:07:53</trans>
+      <receive>2022-06-13 오후 9:17:06</receive>
+      <dday>0</dday>
+      <status>True</status>
+      <tid>10005</tid>
+      <rid>10006</rid>
+      <mod>일반배송</mod>
+</package>
+<package>
+      <id>30006</id>
+      <type>의류</type>
+      <fee>10000</fee>
+      <start>광주</start>
+      <end>서울 강동구</end>
+      <address>서울 강동구</address>
+      <trans>2022-06-12 오후 8:09:08</trans>
+      <receive>2022-06-13 오후 9:17:06</receive>
+      <dday>0</dday>
+      <status>True</status>
+      <tid>10006</tid>
+      <rid>10005</rid>
+      <mod>일반배송</mod>
+</package>
+<package>
+      <id>30007</id>
+      <type>의류</type>
+      <fee>3000</fee>
+      <start>강원 춘천시</start>
+      <end>경기 시흥시</end>
+      <address>경기 시흥시</address>
+      <trans>2022-06-12 오후 8:18:41</trans>
+      <receive>2022-06-13 오후 9:30:41</receive>
+      <dday>-2</dday>
+      <status>True</status>
+      <tid>10004</tid>
+      <rid>10002</rid>
+      <mod>일반배송</mod>
+</package>
+<package>
+      <id>30008</id>
+      <type>곡물류</type>
+      <fee>7400</fee>
+      <start>서울 동작구</start>
+      <end>광주 010-3838-3821</end>
+      <address>광주 010-3838-3821</address>
+      <trans>2022-06-12 오후 8:39:37</trans>
+      <receive>2022-06-13 오후 9:25:52</receive>
+      <dday>0</dday>
+      <status>True</status>
+      <tid>10001</tid>
+      <rid>10006</rid>
+      <mod>일반배송</mod>
+</package>
+<package>
+      <id>30009</id>
+      <type>의류</type>
+      <fee>7000</fee>
+      <start>강원 춘천시</start>
+      <end>부산 동래구</end>
+      <address>부산 동래구</address>
+      <trans>2022-06-12 오후 9:17:05</trans>
+      <receive>2022-06-14 오후 9:30:41</receive>
+      <dday>0</dday>
+      <status>True</status>
+      <tid>10004</tid>
+      <rid>10003</rid>
+      <mod>일반배송</mod>
+</package>
+<package>
+      <id>30010</id>
+      <type>잡화</type>
+      <fee>7000</fee>
+      <start>강원 어딘가</start>
+      <end>울산 어딘가</end>
+      <address>울산 어딘가</address>
+      <trans>2022-06-12 오후 9:42:07</trans>
+      <receive>2022-06-16 오후 9:42:09</receive>
+      <dday>0</dday>
+      <status>True</status>
+      <tid>10007</tid>
+      <rid>10008</rid>
+      <mod>일반택배</mod>
+</package>
+<package>
+      <id>30011</id>
+      <type>식품류</type>
+      <fee>7500</fee>
+      <start>경기 시흥시</start>
+      <end>울산 어딘가</end>
+      <address>울산 어딘가</address>
+      <trans>2022-06-12 오후 9:44:20</trans>
+      <receive>2022-06-17 오후 9:44:21</receive>
+      <dday>0</dday>
+      <status>True</status>
+      <tid>10002</tid>
+      <rid>10008</rid>
+      <mod>일반택배</mod>
+</package>
+<package>
+      <id>30012</id>
+      <type>의류</type>
+      <fee>10000</fee>
+      <start>서울 강동구</start>
+      <end>울산 어딘가</end>
+      <address>울산 어딘가</address>
+      <trans>2022-06-12 오후 9:45:47</trans>
+      <receive>2022-06-17 오후 9:45:48</receive>
+      <dday>0</dday>
+      <status>True</status>
+      <tid>10005</tid>
+      <rid>10008</rid>
+      <mod>일반택배</mod>
+</package>
+<package>
+      <id>30013</id>
+      <type>과일류</type>
+      <fee>7500</fee>
+      <start>부산 동래구</start>
+      <end>경기 시흥시</end>
+      <address>경기 시흥시</address>
+      <trans>2022-06-12 오후 9:46:43</trans>
+      <receive>2022-06-16 오후 9:46:44</receive>
+      <dday>0</dday>
+      <status>True</status>
+      <tid>10003</tid>
+      <rid>10002</rid>
+      <mod>일반택배</mod>
+</package>
+<package>
+      <id>30014</id>
+      <type>가전제품류</type>
+      <fee>7400</fee>
+      <start>서울 동작구</start>
+      <end>울산 어딘가</end>
+      <address>울산 어딘가</address>
+      <trans>2022-06-12 오후 9:51:55</trans>
+      <receive>2022-06-17 오후 9:51:56</receive>
+      <dday>0</dday>
+      <status>True</status>
+      <tid>10001</tid>
+      <rid>10008</rid>
+      <mod>일반택배</mod>
+</package>
+<package>
+      <id>30015</id>
+      <type>가전제품류</type>
+      <fee>6500</fee>
+      <start>경기 A지역</start>
+      <end>대구 B지역</end>
+      <address>대구 B지역</address>
+      <trans>2022-06-12 오후 11:35:07</trans>
+      <receive>2022-06-16 오후 11:48:49</receive>
+      <dday>0</dday>
+      <status>True</status>
+      <tid>10013</tid>
+      <rid>10014</rid>
+      <mod>일반택배</mod>
+</package>
+<package>
+      <id>30016</id>
+      <type>곡물류</type>
+      <fee>15700</fee>
+      <start>서울 C구</start>
+      <end>부산 A구</end>
+      <address>부산 A구</address>
+      <trans>2022-06-12 오후 11:35:55</trans>
+      <receive>2022-06-14 오후 11:48:49</receive>
+      <dday>0</dday>
+      <status>True</status>
+      <tid>10015</tid>
+      <rid>10016</rid>
+      <mod>급속택배</mod>
+</package>
+<package>
+      <id>30017</id>
+      <type>서신/서류</type>
+      <fee>4500</fee>
+      <start>경기 시흥시</start>
+      <end>대전 동구</end>
+      <address>대전 동구</address>
+      <trans>2022-06-12 오후 11:36:06</trans>
+      <receive>2022-06-15 오후 11:48:49</receive>
+      <dday>0</dday>
+      <status>True</status>
+      <tid>10002</tid>
+      <rid>10010</rid>
+      <mod>급속택배</mod>
+</package>
+<package>
+      <id>30018</id>
+      <type>가전제품류</type>
+      <fee>4000</fee>
+      <start>경남 경남지</start>
+      <end>강원 춘천시</end>
+      <address>강원 춘천시</address>
+      <trans>2022-06-12 오후 11:36:15</trans>
+      <receive>2022-06-14 오후 11:48:49</receive>
+      <dday>0</dday>
+      <status>True</status>
+      <tid>10012</tid>
+      <rid>10004</rid>
+      <mod>급속택배</mod>
+</package>
+<package>
+      <id>30019</id>
+      <type>곡물류</type>
+      <fee>3000</fee>
+      <start>울산 어딘가</start>
+      <end>경기 A지역</end>
+      <address>경기 A지역</address>
+      <trans>2022-06-12 오후 11:37:05</trans>
+      <receive>2022-06-16 오후 11:48:49</receive>
+      <dday>0</dday>
+      <status>True</status>
+      <tid>10008</tid>
+      <rid>10013</rid>
+      <mod>기업택배</mod>
+</package>
+<package>
+      <id>30020</id>
+      <type>잡화</type>
+      <fee>2500</fee>
+      <start>울산 어딘가</start>
+      <end>강원 어딘가</end>
+      <address>강원 어딘가</address>
+      <trans>2022-06-12 오후 11:37:27</trans>
+      <receive>2022-06-14 오후 11:48:49</receive>
+      <dday>0</dday>
+      <status>True</status>
+      <tid>10008</tid>
+      <rid>10007</rid>
+      <mod>기업택배</mod>
+</package>
+<package>
+      <id>30021</id>
+      <type>곡물류</type>
+      <fee>4500</fee>
+      <start>강원 춘천시</start>
+      <end>대구 B지역</end>
+      <address>대구 B지역</address>
+      <trans>2022-06-12 오후 11:37:40</trans>
+      <receive>2022-06-15 오후 11:48:49</receive>
+      <dday>0</dday>
+      <status>True</status>
+      <tid>10004</tid>
+      <rid>10014</rid>
+      <mod>기업택배</mod>
+</package>
+</packages>

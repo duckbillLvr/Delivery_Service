@@ -1,0 +1,130 @@
+<users>
+<user>
+      <id>10001</id>
+      <name>김지환</name>
+      <phone>010-2939-2911</phone>
+      <address>서울 동작구</address>
+      <level>VIP고객</level>
+      <total>55300</total>
+</user>
+<user>
+      <id>10002</id>
+      <name>김아영</name>
+      <phone>010-2139-2131</phone>
+      <address>경기 시흥시</address>
+      <level>일반고객</level>
+      <total>38450</total>
+</user>
+<user>
+      <id>10003</id>
+      <name>강나래</name>
+      <phone>010-2239-2531</phone>
+      <address>부산 동래구</address>
+      <level>VIP고객</level>
+      <total>130800</total>
+</user>
+<user>
+      <id>10004</id>
+      <name>강태환</name>
+      <phone>010-8323-2399</phone>
+      <address>강원 춘천시</address>
+      <level>일반고객</level>
+      <total>18500</total>
+</user>
+<user>
+      <id>10005</id>
+      <name>김희철</name>
+      <phone>010-7399-3133</phone>
+      <address>서울 강동구</address>
+      <level>VIP고객</level>
+      <total>24400</total>
+</user>
+<user>
+      <id>10006</id>
+      <name>신유아</name>
+      <phone>010-5888-3111</phone>
+      <address>광주 010-3838-3821</address>
+      <level>기업고객</level>
+      <total>10000</total>
+</user>
+<user>
+      <id>10007</id>
+      <name>김승배</name>
+      <phone>010-2382-1311</phone>
+      <address>강원 어딘가</address>
+      <level>기업고객</level>
+      <total>7000</total>
+</user>
+<user>
+      <id>10008</id>
+      <name>김가나</name>
+      <phone>010-3829-3811</phone>
+      <address>울산 어딘가</address>
+      <level>기업고객</level>
+      <total>5500</total>
+</user>
+<user>
+      <id>10009</id>
+      <name>나형규</name>
+      <phone>010-2239-2911</phone>
+      <address>서울 강남구</address>
+      <level>일반고객</level>
+      <total>8550</total>
+</user>
+<user>
+      <id>10010</id>
+      <name>권미세</name>
+      <phone>010-2344-1414</phone>
+      <address>대전 동구</address>
+      <level>일반고객</level>
+      <total>0</total>
+</user>
+<user>
+      <id>10011</id>
+      <name>김사랑</name>
+      <phone>010-3819-2832</phone>
+      <address>충남 제천</address>
+      <level>일반고객</level>
+      <total>4000</total>
+</user>
+<user>
+      <id>10012</id>
+      <name>강민철</name>
+      <phone>010-3244-4322</phone>
+      <address>경남 경남지</address>
+      <level>일반고객</level>
+      <total>4000</total>
+</user>
+<user>
+      <id>10013</id>
+      <name>김하늘</name>
+      <phone>010-3233-1414</phone>
+      <address>경기 A지역</address>
+      <level>기업고객</level>
+      <total>6500</total>
+</user>
+<user>
+      <id>10014</id>
+      <name>권미솔</name>
+      <phone>010-2323-1111</phone>
+      <address>대구 B지역</address>
+      <level>일반고객</level>
+      <total>0</total>
+</user>
+<user>
+      <id>10015</id>
+      <name>이진아</name>
+      <phone>010-3233-3113</phone>
+      <address>서울 C구</address>
+      <level>일반고객</level>
+      <total>15700</total>
+</user>
+<user>
+      <id>10016</id>
+      <name>김택기</name>
+      <phone>010-3131-4556</phone>
+      <address>부산 A구</address>
+      <level>일반고객</level>
+      <total>0</total>
+</user>
+</users>
