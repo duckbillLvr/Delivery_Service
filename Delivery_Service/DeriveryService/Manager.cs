@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System;
 using System.Data;
 
-namespace Project_19013135
+namespace DeriveryService
 {
     public partial class Manager : Form
     {

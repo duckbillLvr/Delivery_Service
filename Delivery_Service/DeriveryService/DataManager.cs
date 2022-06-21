@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 
-namespace Project_19013135
+namespace DeriveryService
 {
     public class DataManager
     {

@@ -1,4 +1,4 @@
-﻿namespace Project_19013135
+﻿namespace DeriveryService
 {
     partial class Register
     {

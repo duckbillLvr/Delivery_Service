@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Project_19013135
+namespace DeriveryService
 {
     // 유저 정보를 담은 유저 클래스
     public class User

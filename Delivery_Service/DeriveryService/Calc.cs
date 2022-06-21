@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace Project_19013135
+namespace DeriveryService
 {
     public class Calc
     {
@@ -25,14 +25,15 @@ namespace Project_19013135
             int sx = send_city.x;
             int sy = send_city.y;
 
-            Queue<point> q = new Queue<point>();
-            q.Enqueue(new point(sx, sy, send_city));
+            Queue<Point> q = new Queue<Point>();
+            q.Enqueue(new Point(sx, sy, send_city));
             visited[sx, sy] = true;
             root[sx, sy].Add(cities[sx][sy]);
 
+            // 상하좌우 탐색 가능
             while (q.Count > 0)
             {
-                point cur = q.Dequeue();
+                Point cur = q.Dequeue();
                 
                 if (cities[cur.x][cur.y].Name == receive_city.Name)
                     return root[cur.x, cur.y];
@@ -50,7 +51,7 @@ namespace Project_19013135
                         continue;
 
 
-                    q.Enqueue(new point(nx, ny, cities[nx][ny]));
+                    q.Enqueue(new Point(nx, ny, cities[nx][ny]));
                     visited[nx, ny] = true;
                     root[nx, ny] = root[cur.x, cur.y].ToList();
                     root[nx, ny].Add(cities[nx][ny]);
@@ -77,9 +78,9 @@ namespace Project_19013135
             }
         }
         // Point 클래스를 이용하여 도시 좌표를 구함
-        private class point
+        private class Point
         {
-            public point(int x, int y, City city)
+            public Point(int x, int y, City city)
             {
                 this.x = x;
                 this.y = y;

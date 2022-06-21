@@ -401,3 +401,10 @@ FodyWeavers.xsd
 
 # End of https://www.toptal.com/developers/gitignore/api/csharp
 *.json
+
+
+!net5.0-windows/
+net5.0-windows/*
+!net5.0-windows/*.txt
+!net5.0-windows/*.xml
+!net5.0-windows/*.jpg
